@@ -1,1 +1,1 @@
-# python-outlier-fetcher-example
+Example of outlier fetcher in Python.
